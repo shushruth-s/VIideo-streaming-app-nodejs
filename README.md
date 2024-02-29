@@ -1,4 +1,4 @@
-# VIideo-streaming-app-nodejs
+# Video-streaming-app-nodejs
 In this first open your terminal or Visual code terminal
 then type this code 'npm init' to get the json file.
 Now click enter until you can enter a new command.
